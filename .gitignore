@@ -18,3 +18,4 @@ fp-info-cache
 *.ses
 
 *.zip
+*.kicad_sch.lck
